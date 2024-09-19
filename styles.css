@@ -1,0 +1,86 @@
+body {
+    background-color: #241586;
+    color:  #CBF380;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #170d57;
+    color:#CBF380;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background:  #21156e;
+    color: #7bac20;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: .5s;
+}
+
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: .5s;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: .5s;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+   
+    padding: 20px;
+    margin: 10px;
+   
+}
+
+h3 {
+    margin-top: 70px;
+}
+
+#projetos {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.linkedin {
+    color: #CBF380;
+}
+
+
+
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #170d57;
+    color:#CBF380;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
